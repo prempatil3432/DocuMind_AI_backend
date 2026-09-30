@@ -12,6 +12,12 @@ Production-ready Node.js & Express REST API for **DocuMind AI**, featuring:
 
 ---
 
+## 🌐 Live Production Deployment
+- 🚀 **Backend REST API (Render):** `https://documind-ai-backend-8ssm.onrender.com/api`
+- 🩺 **Health Check Status:** [https://documind-ai-backend-8ssm.onrender.com/api/health](https://documind-ai-backend-8ssm.onrender.com/api/health)
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Install Dependencies
