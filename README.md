@@ -12,7 +12,8 @@ Production-ready Node.js & Express REST API for **DocuMind AI**, featuring:
 
 ---
 
-## 🌐 Live Production Deployment
+## 🌐 Live Production Deployments
+- 💻 **Frontend Web App (Vercel):** [https://docu-mind-ai-frontend.vercel.app/](https://docu-mind-ai-frontend.vercel.app/)
 - 🚀 **Backend REST API (Render):** `https://documind-ai-backend-8ssm.onrender.com/api`
 - 🩺 **Health Check Status:** [https://documind-ai-backend-8ssm.onrender.com/api/health](https://documind-ai-backend-8ssm.onrender.com/api/health)
 
