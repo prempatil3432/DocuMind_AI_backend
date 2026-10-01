@@ -12,6 +12,9 @@ import chatRoutes from './routes/chatRoutes.js';
 
 const app = express();
 
+// Trust proxy for reverse proxies (Render, Cloudflare, Load Balancers)
+app.set('trust proxy', 1);
+
 // Security HTTP headers
 app.use(helmet({
   crossOriginResourcePolicy: { policy: "cross-origin" }
