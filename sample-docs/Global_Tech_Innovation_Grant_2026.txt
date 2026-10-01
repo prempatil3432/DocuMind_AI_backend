@@ -1,0 +1,72 @@
+================================================================================
+GLOBAL TECH INNOVATION & CLIMATE RESILIENCE GRANT (GTICR-2026)
+Official Program Guidelines & Compliance Dossier
+Issuing Authority: International Innovation Directorate (Fictional Entity)
+Document Identifier: GTICR-DOC-2026-V4
+Effective Date: 01 September 2026
+================================================================================
+
+1. EXECUTIVE OVERVIEW & PROGRAM OBJECTIVES
+--------------------------------------------------------------------------------
+The Global Tech Innovation & Climate Resilience Grant (GTICR-2026) provides up to
+$250,000 USD in non-dilutive capital grants to qualified technology organizations.
+The program accelerates auditable, mission-critical technologies focused on sustainable
+computing, artificial intelligence integrity, and distributed resilience systems.
+Applicants must follow all mandatory guidelines, provide verifiable proof of claims,
+and adhere strictly to the schedule outlined in Section 3.
+
+2. ELIGIBILITY CRITERIA & APPLICANT QUALIFICATIONS
+--------------------------------------------------------------------------------
+To qualify for funding consideration, applicant entities must satisfy each condition:
+- Organization must be legally incorporated and in continuous good standing.
+- Maximum headcount cannot exceed 500 full-time equivalents as of the submission date.
+- Applicant must hold full, uncontested ownership of primary software patents and IP.
+- Must demonstrate active, verified commercial or pilot deployment of target software.
+- Entities currently undergoing bankruptcy, active litigation, or sanctions are ineligible.
+
+3. CRITICAL DEADLINES & PROGRAM TIMELINE
+--------------------------------------------------------------------------------
+Compliance with established program milestones is mandatory:
+- Initial Registration & Portal Verification: 05 October 2026
+- Application Submission Deadline: 15 October 2026 (Strict closing at 17:00 UTC)
+- Compliance & Document Audit Screening: 22 October 2026
+- Technical Committee Demonstration & Interview: 05 November 2026
+- Final Grant Approval & Award Notification: 18 November 2026
+- First Tranche Capital Disbursement: 01 December 2026
+- Final Project Audit & Delivery Dossier Due: 15 October 2027
+
+Note: Late submissions received past 15 October 2026 will be automatically rejected.
+
+4. MANDATORY DOCUMENTATION & SUBMISSION REQUIREMENTS
+--------------------------------------------------------------------------------
+All applicant dossiers must include the following verified attachments:
+- Audited Financial Statements: Certified balance sheets for fiscal years 2024 and 2025.
+- Technical Architecture Blueprint: System architecture, threat model, and data flow (max 20 pages).
+- Intellectual Property Affidavit: Legal certification of software ownership signed by legal counsel.
+- Risk Mitigation & Ethics Declaration: Compliance with data privacy and ethical AI standards.
+- Executive Leadership Bios: One-page resumes for each key principal investigator.
+
+5. ACTION ITEMS & APPLICANT COMPLIANCE CHECKLIST
+--------------------------------------------------------------------------------
+Applicants are instructed to complete the following priority action items:
+1. [Action] Submit Phase 1 Grant Application Dossier via the portal before 15 October 2026.
+2. [Action] Upload certified fiscal audit statements and signed IP ownership affidavit.
+3. [Action] Complete technical baseline cybersecurity verification before 20 October 2026.
+4. [Action] Designate key technical lead for the committee interview scheduled for 05 November 2026.
+5. [Action] Establish escrow account details for capital disbursement before 25 November 2026.
+
+6. RISK FACTORS & DISQUALIFICATION WARNINGS
+--------------------------------------------------------------------------------
+- Incomplete Submissions: Failure to submit all five mandatory attachments by 15 October 2026
+  results in instant administrative rejection.
+- Falsification of Credentials: Any misrepresentation of company revenue or IP rights will forfeit
+  all claims and result in permanent exclusion from future directorate programs.
+- Unmonitored Deadlines: The committee does not grant extensions for portal downtime or local holidays.
+
+7. CONTACT & INQUIRIES
+--------------------------------------------------------------------------------
+For procedural inquiries, contact the Program Secretariat:
+Email: secretariat@gticr-innovation.org
+Portal: https://portal.gticr-innovation.org/support
+Official Working Hours: Monday - Friday, 09:00 - 17:00 UTC
+================================================================================

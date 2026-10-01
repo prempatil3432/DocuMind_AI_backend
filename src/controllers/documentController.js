@@ -128,8 +128,14 @@ export const documentController = {
    */
   async loadSampleDocument(req, res, next) {
     try {
-      const samplePath = path.resolve(__dirname, '../../../sample-docs/Global_Tech_Innovation_Grant_2026.txt');
-      if (!fs.existsSync(samplePath)) {
+      const candidatePaths = [
+        path.resolve(__dirname, '../../sample-docs/Global_Tech_Innovation_Grant_2026.txt'),
+        path.resolve(process.cwd(), 'sample-docs/Global_Tech_Innovation_Grant_2026.txt'),
+        path.resolve(__dirname, '../../../sample-docs/Global_Tech_Innovation_Grant_2026.txt'),
+        path.resolve(process.cwd(), '../sample-docs/Global_Tech_Innovation_Grant_2026.txt')
+      ];
+      const samplePath = candidatePaths.find(p => fs.existsSync(p));
+      if (!samplePath) {
         return res.status(404).json({
           success: false,
           error: 'Sample document file not found on server.'
